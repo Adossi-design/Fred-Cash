@@ -1,45 +1,30 @@
-# Green Finance Tools 🌱💸
+# Fred-Cash - Currency Converter & Calculator
 
-A lightweight web application featuring a currency converter and calculator with a clean, eco-friendly green theme.
-i
-![App Screenshot]("C:\Users\USER\Pictures\Screenshots\Screenshot 2025-03-31 055928.png")
+A responsive web application featuring real-time currency conversion and an interactive calculator, deployed with load balancing across multiple servers.
 
-## Features ✨
+## Features
 
-### 💱 Currency Converter
-- Convert between 30 major world currencies
-- Real-time exchange rates (requires API key)
-- Clean interface with country flags
-- Responsive design works on all devices
+### Core Functionality
+- **Currency Converter**
+  - 45+ global currencies including 15 African currencies
+  - Real-time exchange rates via ExchangeRate-API
+  - Intuitive conversion interface with error handling
 
-### 🧮 Calculator
-- Standard arithmetic operations
-- Support for parentheses
-- Keyboard input support
-- AC (All Clear) function
+- **Interactive Calculator**
+  - Full arithmetic operations with PEMDAS support
+  - Visual feedback on hover and click
+  - Keyboard support for rapid input
 
-## File Structure 📂
+### Technical Implementation
+- Secure API integration with protected key management
+- Responsive design for all device sizes
+- Comprehensive error handling
+- Load-balanced deployment across multiple servers
 
-## Setup Instructions ⚙️
+## Setup & Deployment
 
-1. Clone or download the repository
-2. Open `index.html` in a web browser
-3. For currency conversion:
-   - Get a free API key from [ExchangeRate-API](https://www.exchangerate-api.com)
-   - Replace `YOUR_EXCHANGERATE_API_KEY` in `currency.js`
-
-## Technologies Used 💻
-
-- HTML5
-- CSS3 
-- Vanilla JavaScript 
-- ExchangeRate-API for currency data
-
-## Browser Support 🌐
-
-- Chrome (latest)
-- Firefox (latest)
-- Edge (latest)
-- Safari (latest)
-- Mobile browsers (responsive design)
-
+### Local Development
+1. Clone repository:
+   ```bash
+   git clone https://github.com/Adossi-design/Fred-Cash.git
+   cd Fred-Cash
