@@ -15,8 +15,8 @@ A responsive web application featuring real-time currency conversion and an inte
   - Visual feedback on hover and click
   - Keyboard support for rapid input
 ## 🌐 Demo
-Video that shows how to use Fred-Cash: ![Fred-Cash video](https://github.com/user-attachments/assets/c2c3128b-b469-4bd1-96c8-bebf22d46ba4)
-Live demo available at: [https://www.adossi.tech](https://www.adossi.tech)
+- Video that shows how to use Fred-Cash: [Fred-Cash video](https://github.com/user-attachments/assets/c2c3128b-b469-4bd1-96c8-bebf22d46ba4)
+- Live demo available at: [https://www.adossi.tech](https://www.adossi.tech)
 
 ### Technical Implementation
 - Secure API integration with protected key management
