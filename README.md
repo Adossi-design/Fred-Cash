@@ -1,7 +1,8 @@
 # Fred-Cash - Currency Converter & Calculator
 
 A responsive web application featuring real-time currency conversion and an interactive calculator, deployed with load balancing across multiple servers.
-
+![App Screenshot](https://github.com/Adossi-design/Fred-Cash/blob/main/Calculator.png)
+![Converter Screenshot](https://github.com/Adossi-design/Fred-Cash/blob/main/Currency%20converter.png)
 ## Features
 
 ### Core Functionality
@@ -14,6 +15,9 @@ A responsive web application featuring real-time currency conversion and an inte
   - Full arithmetic operations with PEMDAS support
   - Visual feedback on hover and click
   - Keyboard support for rapid input
+## 🌐 Demo
+Video that shows how to use Fred-Cash: ![Fred-Cash video](https://github.com/user-attachments/assets/c2c3128b-b469-4bd1-96c8-bebf22d46ba4)
+Live demo available at: [https://fred-cash.adossi.tech](https://fred-cash.adossi.tech)
 
 ### Technical Implementation
 - Secure API integration with protected key management
